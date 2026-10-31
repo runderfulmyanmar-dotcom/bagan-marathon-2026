@@ -1,37 +1,29 @@
-# Bagan Marathon 2026 — Official Participant List
+# Bagan Marathon 2026 — Premium Participant List
 
-## Project structure
-```
-Main/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    ├── runderful-logo.jpg
-    ├── sample.png
-    ├── 10Km.csv
-    ├── 21Km.csv
-    └── 42Km.csv
-```
+## Files
+- `index.html` — page structure
+- `style.css` — responsive premium styling
+- `script.js` — CSV parsing, search, category tabs, pagination and sponsor animation
+- `assets/` — RUNderful logo, 3 participant CSV files and `sample.png` fallback artwork
 
 ## Run locally
-CSV files are loaded with `fetch()`, so do not open `index.html` by double-clicking it.
-In VS Code, install the **Live Server** extension, right-click `index.html`, then choose **Open with Live Server**.
+Do not open `index.html` directly. In VS Code install **Live Server**, right-click `index.html`, and choose **Open with Live Server**.
 
-## Publish with GitHub Pages
-1. Sign in to GitHub and create a new repository (for example `bagan-marathon-2026`).
-2. Extract this ZIP file. Upload the contents of the `Main` folder (not the outer ZIP folder) to the repository root.
+## Publish on GitHub Pages
+1. Create a GitHub repository.
+2. Upload the contents of this project folder to the repository root.
 3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select **main** and **/(root)**, then click **Save**.
-6. Wait for GitHub Pages to publish; open the URL shown in the Pages section.
+4. Choose **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
+5. Wait for GitHub Pages to provide the public URL.
 
-## Update data and images
-- Replace `assets/10Km.csv`, `assets/21Km.csv`, and `assets/42Km.csv` with updated CSV files, keeping the same filenames and column headers.
-- Keep these columns: `Ticket ID, Full Name, BIB Name, BIB Number, Gender, Category, T-Shirt size, Remark`.
-- Replace `assets/runderful-logo.jpg` with your logo (or update its filename in `index.html`).
-- Replace `assets/sample.png` with your own Bagan background artwork/photo in PNG format. The current image is a replaceable illustration.
-- To add sponsor logos, replace the 13 placeholder boxes: edit the sponsorSlots markup in `script.js` and add image files in `assets/`.
+## Update files
+- Replace `assets/10Km.csv`, `assets/21Km.csv`, and `assets/42Km.csv` but keep the filenames and column headings.
+- Replace `assets/runderful-logo.jpg` to update the brand logo.
+- Replace `assets/sample.png` to change the local fallback artwork.
+- Sponsor placeholders (13) are created in `script.js`; replace each placeholder with an `<img>` tag pointing to a sponsor PNG in `assets/`.
 
-## Important privacy note
-GitHub Pages repositories and their published files are public. These CSV files include participant names and registration details. Publish them only if RUNderful Myanmar has permission to make those fields public. If some fields should remain private, remove them from the CSV and adjust the displayed fields in `script.js` before publishing.
+## Bagan photo attribution
+The hero uses the Wikimedia Commons photograph “Old Bagan, Myanmar, Sunset over ancient 12th century pagodas in Bagan plains” by Vyacheslav Argenberg, licensed CC BY 4.0. Credit and source link are included in the page footer. If the external photo cannot load, the bundled `assets/sample.png` illustration is the fallback.
+
+## Privacy
+GitHub Pages content is public. The participant CSVs contain personal registration information; publish only after confirming permission. Remove any columns that should not be public before uploading.
