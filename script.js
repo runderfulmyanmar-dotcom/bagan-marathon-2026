@@ -5,7 +5,7 @@ const DATA_FILES = {
   "42KM": "assets/42Km.csv"
 };
 const PAGE_SIZE = 20;
-const SPONSOR_COUNT = 19;
+const SPONSOR_COUNT = 20;
 let allData = {};
 let activeCategory = "10KM";
 let currentPage = 1;
