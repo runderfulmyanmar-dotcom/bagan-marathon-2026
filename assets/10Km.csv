@@ -488,7 +488,7 @@
 03476,Nyi Nyi lwin,Nyi Lwin,M1520,Male,10KM,XL,
 03477,Thiha Tu,ThiHa,M1521,Male,10KM,L,
 03484,MinThant Kyaw,MINTHANT,M1522,Male,10KM,XL,
-03487,Pyae Phyo Kyaw,PYAE PHYO,M1523,Male,10KM,2XL,Ko Htoo Group
+03487,Pyae Phyo Kyaw,PYAE PHYO,M1523,Male,10KM,2XL,Ko Htoo Group-Same Name
 03488,Sai Wunna Tun,Sai Wunna,M1524,Male,10KM,L,Ko Htoo Group
 03489,Ye Yint Hein,YEYINTHEIN,M1525,Male,10KM,L,Ko Htoo Group
 03490,Kaung Thaw Khant,SHW,M1526,Male,10KM,L,Ko Htoo Group
@@ -575,7 +575,7 @@
 03640,Christina Lin,Christina,F1607,Female,10KM,L,Croton Group
 Late-1,Aye Chan,Aye Chan,M1608,Male,10KM,XXS,May Thi Group
 Late-2,Pyae P Kyw,Pyae P Kyw,M1609,Male,10KM,XL,May Thi Group
-Late-3,Pyae Phyo,Pyae Phyo,M1610,Male,10KM,L,May Thi Group
+Late-3,Pyae Phyo,Pyae Phyo,M1610,Male,10KM,L,May Thi Group-Same Name
 Late-4,Khant Sithu,Khant Sithu,M1611,Male,10KM,L,May Thi Group
 Late-5,S Min Khant,S Min Khant,M1612,Male,10KM,L,May Thi Group
 Late-6,LUCAS WONG,LUCAS WONG,M1111,Male,10KM,S,May Thi Group
@@ -587,8 +587,8 @@ Late-11,Paing Hein Khant,Hein Khaing,B1618,Male,10KM,L,May Thi Group
 Late-12,Soe Win Oo,SoeWinOo,B1619,Male,10KM,S,May Thi Group
 Late-13,Thandar Naing,Thandar,B1620,Female,10KM,M,May Thi Group
 Late-14,Katherine Khin Khin,Katherine,B1621,Female,10KM,M,May Thi Group
-Late-15,Pyae Phyo Kyaw,PyaePhyoKyaw,B1622,Male,10KM,XL,Ko Htoo-G
-Late-16,Pyae Phyo,Pyae Phyo,B1623,Male,10KM,L,Ko Htoo-G
+Late-15,Pyae Phyo Kyaw,PyaePhyoKyaw,B1622,Male,10KM,XL,Ko Htoo-G-Same Name
+Late-16,Pyae Phyo,Pyae Phyo,B1623,Male,10KM,L,Ko Htoo-G-Same Name
 Late-17,Khant Si Thu,KhantSithu,B1624,Male,10KM,L,Ko Htoo-G
 Late-18,Shane Min Khant,S Min Khant,B1625,Male,10KM,L,Ko Htoo-G
 Late-19,Su Latt Phyu,SuLattPhyu,B1626,Female,10KM,L,Ko Htoo-G
