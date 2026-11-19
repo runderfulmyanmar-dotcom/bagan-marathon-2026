@@ -5,13 +5,13 @@
 02430,Zin KoAung,Alex OTG,M2150,Male,21KM,L,Bus-A
 02431,Ye Lynn Htet,PriestLay,M2151,Male,21KM,XL,
 02434,Bethany Noe,BETHANY,F2152,Female,21KM,XS,T-Shirt Size Change
-02436,Paw Htun Oo,Ko Paw,M2153,Male,21KM,L,
+02436,Paw Htun Oo,Ko Paw,M2153,Male,21KM,L,Bus-B
 02438,Shwe Sin,SHWE SIN,F2154,Female,21KM,XS,
 02439,May Oo Khin,MAYOOKHIN,F2155,Female,21KM,L,
 02441,Kyaw Zayar Htun,ThomasZayar,M2156,Male,21KM,XL,Participant Change
 02445,Khine Lynn Soe,006962,M2157,Male,21KM,M,
 02446,Hein Htet,HeinHtet,M2158,Male,21KM,S,T-Shirt Size Change-Same Name
-02448,Kiran Goutam,KIRAN,M2159,Male,21KM,3XL,
+02448,Kiran Goutam,KIRAN,M2159,Male,21KM,3XL,Bus-B
 02449,Kyaw Swar Oo,KyawSwar,M2160,Male,21KM,2XL,Bus-A
 02450,Jade Lim,Jur,F2161,Female,21KM,S,T-Shirt Size Change
 02451,Hein Thant,H8,M2162,Male,21KM,3XL,
@@ -25,7 +25,7 @@
 02476,Zay Latt Win,Ko Zay,M2170,Male,21KM,L,
 02478,Chan Nyein,Maverick,M2171,Male,21KM,L,
 02479,Moo Ra Htoo,Moora,F2172,Female,21KM,S,Bus-A
-02482,Mi Htet,Htet,F2173,Female,21KM,2XL,
+02482,Mi Htet,Htet,F2173,Female,21KM,2XL,Bus-B
 02485,Shin Thant,PaPar Shin,M2174,Male,21KM,XL,
 02489,Thaw Zin Win,Thaw Zin,M2175,Male,21KM,L,Category Change
 02492,The Su Tayar Htet,ThesuTayar,F2176,Female,21KM,M,T-Shirt Size Change
@@ -33,7 +33,7 @@
 02497,Ko Than Zaw,Than Zaw,M2178,Male,21KM,2XL,Category Change
 02498,Aye Myat Thuzar,Michelle,F2179,Female,21KM,XS,
 02500,Htaik Htaik Hlaing,HtaikHtaik,F2180,Female,21KM,S,
-02505,Khin Myint Kyu,Ma Kyu,F2181,Female,21KM,M,
+02505,Khin Myint Kyu,Ma Kyu,F2181,Female,21KM,M,Bus-B
 02507,Tint Aung Khant,Shout Thee,M2182,Male,21KM,L,
 02510,Sai Aike Aung,007,M2183,Male,21KM,L,
 02513,Yu Wah Aye,WD Chen,F2184,Female,21KM,L,
@@ -41,14 +41,14 @@
 02524,Kyaw Htet Oo,1234567890,M2186,Male,21KM,M,
 02525,Khin San Yi,Yi,F2187,Female,21KM,M,
 02526,Eaint JulyMoe,Eaint July,F2188,Female,21KM,S,Category Change
-02533,KyawZin Win,Kyaw Zin,M2189,Male,21KM,M,
+02533,KyawZin Win,Kyaw Zin,M2189,Male,21KM,M,Bus-B
 02535,Htet Paing Oo,Htetpaing,M2190,Male,21KM,L,
 02539,Thinzar Moe,Thinzar,F2191,Female,21KM,XS,
 02540,Aung Myo,AMT,M2192,Male,21KM,2XL,Bus-A-Wrong Gender
 02544,Naw Purity,Purity,F2193,Female,21KM,M,
-02545,Zaw Htet Aung,Zaw Gyi,M2194,Male,21KM,XL,
+02545,Zaw Htet Aung,Zaw Gyi,M2194,Male,21KM,XL,Bus-B
 02547,Min Ko Ko,MKK,M2195,Male,21KM,XL,
-02549,Hnin Wint Kyaw,Hnin,F2196,Female,21KM,M,
+02549,Hnin Wint Kyaw,Hnin,F2196,Female,21KM,M,Bus-B
 02561,Khin Khin Zan,KhinZan,F2197,Female,21KM,XS,Virtual
 02564,Myo Thein Kha,Myo TK,M2198,Male,21KM,L,
 02565,Kitsanar THIN THIN MAW,Kitsa Nar,F2199,Female,21KM,L,
@@ -209,7 +209,7 @@
 02994,Kyaw Thuyein Lwin,KTY LWIN,M2354,Male,21KM,XL,
 02995,Pyay Tha Htun,Pyay Gyi,M2355,Male,21KM,2XL,
 02997,AyeAye Thant,Aye Aye,F2356,Female,21KM,XS,
-03002,Ye Lin Aung,YeLinAung,M2357,Male,21KM,S,Same Name
+03002,Ye Lin Aung,YeLinAung,M2357,Male,21KM,S,Bus-B-Same Name
 03003,Kim Elsie Stuart,Kim Stuart,F2358,Female,21KM,XS,International
 03006,May Pearl AungKo,Maypearlko,F2359,Female,21KM,XS,
 03008,SAFIULLAH MOHAMMAD,SAFI,M2360,Male,21KM,XL,International
