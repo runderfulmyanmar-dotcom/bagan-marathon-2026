@@ -5,9 +5,9 @@
 02432,Aurora Su,Aurora Su,F1037,Female,10KM,M,Name & BIB Name Change
 02435,Si Thu Kyaw,CiCi,M1038,Male,10KM,M,T-Shirt Size Change
 02443,Kyaw Zin Latt,BLANCO,M1039,Male,10KM,M,
-02447,yay chan,YC,M1040,Male,10KM,L,
+02447,yay chan,YC,M1040,Male,10KM,L,Bus-B
 02454,Hlaine Ei Unt Bwe,HEUB,F1041,Female,10KM,L,T-Shirt Size Change
-02457,Lwin Nyein Aye,Lwin Nyein,F1042,Female,10KM,S,T-Shirt Size Change
+02457,Lwin Nyein Aye,Lwin Nyein,F1042,Female,10KM,S,Bus-B-T-Shirt Size Change
 02460,NI Ni HTUN,Ni Ni Htun,F1043,Female,10KM,XL,T-Shirt Size Change
 02462,Nan Htet Hnin Phyu,LanaDelRey,F1044,Female,10KM,2XL,
 02465,Nan Dar Linn,NanDarLinn,F1045,Female,10KM,L,Bus-A
@@ -28,24 +28,24 @@
 02509,Aung Aung,gAgyI,M1060,Male,10KM,M,
 02512,Ko Phyo PHYO Phyo,Next Day01,M1061,Male,10KM,M,
 02514,CHEW Eain Zaw,CHEW,F1062,Female,10KM,XS,
-02517,Hla Chan Wai,Chan Wai,F1063,Female,10KM,L,
+02517,Hla Chan Wai,Chan Wai,F1063,Female,10KM,L,Bus-B
 02518,Soe Wanna,Kar Gyi,M1064,Male,10KM,2XL,
 02520,Zaw Moe Lwin,Zaw,M1065,Male,10KM,L,Category Change
 02521,Lut Latt,Lut Latt,M1066,Male,10KM,L,
-02528,Aye Hsu Maung,HSU,M1067,Male,10KM,S,
+02528,Aye Hsu Maung,HSU,M1067,Male,10KM,S,Bus-B
 02529,Nyein Aye Khaing,Nyein,F1068,Female,10KM,M,
 02530,Lynn Maung,Lynn Maung,M1069,Male,10KM,3XL,
-02537,Thanda Zan,THANDA,F1070,Female,10KM,M,BIB Name Change
+02537,Thanda Zan,THANDA,F1070,Female,10KM,M,Bus-B-BIB Name Change
 02538,Kaung Zaw,KaungZaw,M1071,Male,10KM,M,Bus-A
 02541,Thae Ei San,TES,F1072,Female,10KM,S,
 02546,Thu zar Aye,ThuzarAye,F1073,Female,10KM,XS,Bus-A
 02550,Khaing Thandar Htun,Khaing,F1074,Female,10KM,M,
 02552,Le Le Win,Le,F1075,Female,10KM,M,
 02553,Myint Myat Mon,Myat Mon,F1076,Female,10KM,M,Bus-A-Category Change
-02555,Thuta Aung Zay,ROBIN,M1077,Male,10KM,M,
+02555,Thuta Aung Zay,ROBIN,M1077,Male,10KM,M,Bus-B
 02557,Thein Naing,Thein Nain,M1078,Male,10KM,XL,
 02563,Wint Wah Aung,WINT WAH,F1079,Female,10KM,S,
-02567,Moe Moe Aung,Moe Moe,F1080,Female,10KM,L,
+02567,Moe Moe Aung,Moe Moe,F1080,Female,10KM,L,Bus-B
 02570,KHIN KHAING KHAING NWE,KHiN,F1081,Female,10KM,S,
 02576,Zaw Min Htet,ZawMinHtet,M1082,Male,10KM,XL,
 02577,Htet Htet Khine,Htet Htet,F1083,Female,10KM,M,
@@ -68,7 +68,7 @@
 02625,Aung Ko Lin,1001,M1100,Male,10KM,S,
 02628,NAY LYNN HTAIK,Ko Lynn,M1101,Male,10KM,XL,
 02629,Ye Htet Aung,Law Law,M1102,Male,10KM,M,
-02635,Myo Myo Aye,Myo Aye,F1103,Female,10KM,L,
+02635,Myo Myo Aye,Myo Aye,F1103,Female,10KM,L,Bus-B
 02639,Aye Thandar Win,Julie,F1104,Female,10KM,2XL,
 02642,Zaw Zaw Htike,Zaw htike,M1105,Male,10KM,XL,
 02647,Myat Kaung Set,Kaungkaung,M1106,Male,10KM,M,
@@ -143,10 +143,10 @@
 02826,Ye Zaw,Ye zaw,M1175,Male,10KM,L,
 02830,Myo Min,Myo Min,M1176,Male,10KM,XS,
 02833,Phyo Pyae Sone,PhyoPyae,M1177,Male,10KM,L,
-02835,Chuu Eindayae,CHUU,F1178,Female,10KM,XS,
+02835,Chuu Eindayae,CHUU,F1178,Female,10KM,XS,Bus-B
 02836,Ko Ye,Yekhaung,M1179,Male,10KM,M,T-Shirt Size Change
 02837,Tun TunAung,TTAg,M1180,Male,10KM,L,Bus-A
-02840,WaiYan Min,WaiYan,M1181,Male,10KM,L,
+02840,WaiYan Min,WaiYan,M1181,Male,10KM,L,Bus-B
 02842,Stephanie Poe,Stephanie,F1182,Female,10KM,2XL,Category Change
 02848,Zin Minn Oo,ZINMINNOO,M1183,Male,10KM,L,
 02851,AungSi Thu,A S T,M1184,Male,10KM,3XL,
